@@ -1,0 +1,45 @@
+[
+    "index.md",
+    [
+        "boot.md",
+        {
+            "attr": {
+                "data-background": "https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/article_image/spring-boot-cover_0.png"
+            }
+        },
+        "boot-pom1.md",
+        "boot-pom2.md",
+        "boot-pom3.md",
+        "boot-greetingcontroller.md",
+        "boot-greetingpojo.md",
+        "boot-greetingapplication.md",
+        "boot-build-and-run.md"
+    ],
+    [
+        "cassandra.md",
+        "cassandra-what-is-it.md",
+        "cassandra-spring-data.md",
+        "cassandra-personpojo.md",
+        "cassandra-crudrepository.md",
+        "cassandra-pagingandsorting.md",
+        "cassandra-main.md",
+        "cassandra-repositories-continued.md",
+        "cassandra-repositories-continued2.md"
+    ],
+    [
+        "hazelcast.md",
+        "what-is-hazelcast2.md",
+        "hazelcast-features.md",
+        "what-is-hazelcast.md",
+        "hazelcast-java-functions.md",
+        "hazelcast-map.md",
+        "hazelcast-topic.md",
+        "hazelcast-lock.md",
+        "hazelcast-entryprocessor1.md",
+        "hazelcast-entryprocessor2.md",
+        "hazelcast-aggregation.md",
+        "hazelcast-othertypes.md"
+    ],
+    "me.md",
+    "demo.md"
+]
